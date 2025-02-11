@@ -24,6 +24,19 @@ footer{
     padding-top: 24px;
     padding-bottom: 36px;
     background-color: #dedede;
+    color: darkred;
+    font-size: 30px;
+
+}
+
+footer a {
+    color: darkred; 
+    font-size: 30px;
+    
+}
+
+footer a:hover {
+    color: #da2727; 
 }
 
 .aside_header{
@@ -31,6 +44,7 @@ footer{
     display: grid;
     grid-template-columns: 1fr 111px;
 }
+
 
 .event_container{
     padding: 5px;
